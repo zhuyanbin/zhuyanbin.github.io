@@ -4,11 +4,169 @@
   
   
   <entry>
+    <title>劝学</title>
+    <link href="/2021/05/04/quanxue/"/>
+    <url>/2021/05/04/quanxue/</url>
+    
+    <content type="html"><![CDATA[<h3 id="劝学"><a href="#劝学" class="headerlink" title="劝学"></a>劝学</h3><p>君子曰：学不可以已。</p><p>青，取之于蓝，而青于蓝；冰，水为之，而寒于水。木直中绳，輮以为轮，其曲中规。虽有槁暴，不复挺者，輮使之然也。故木受绳则直，金就砺则利，君子博学而日参省乎己，则知明而行无过矣。</p><p>吾尝终日而思矣，不如须臾之所学也；吾尝跂而望矣，不如登高之博见也。登高而招，臂非加长也，而见者远；顺风而呼，声非加疾也，而闻者彰。假舆马者，非利足也，而致千里；假舟楫者，非能水也，而绝江河。君子生非异也，善假于物也。</p><p>积土成山，风雨兴焉；积水成渊，蛟龙生焉；积善成德，而神明自得，圣心备焉。故不积跬步，无以至千里；不积小流，无以成江海。骐骥一跃，不能十步；驽马十驾，功在不舍。锲而舍之，朽木不折；锲而不舍，金石可镂。蚓无爪牙之利，筋骨之强，上食埃土，下饮黄泉，用心一也。蟹六跪而二螯，非蛇鳝之穴无可寄托者，用心躁也。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随便写写</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>古文欣赏</tag>
+      
+      <tag>生活</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>师说</title>
+    <link href="/2021/05/04/shishuo/"/>
+    <url>/2021/05/04/shishuo/</url>
+    
+    <content type="html"><![CDATA[<h3 id="师说"><a href="#师说" class="headerlink" title="师说"></a>师说</h3><p>古之学者必有师。师者，所以传道受业解惑也。人非生而知之者，孰能无惑？惑而不从师，其为惑也，终不解矣。生乎吾前，其闻道也固先乎吾，吾从而师之；生乎吾后，其闻道也亦先乎吾，吾从而师之。吾师道也，夫庸知其年之先后生于吾乎？是故无贵无贱，无长无少，道之所存，师之所存也。</p><p>嗟乎！师道之不传也久矣！欲人之无惑也难矣！古之圣人，其出人也远矣，犹且从师而问焉；今之众人，其下圣人也亦远矣，而耻学于师。是故圣益圣，愚益愚。圣人之所以为圣，愚人之所以为愚，其皆出于此乎？爱其子，择师而教之；于其身也，则耻师焉，惑矣。彼童子之师，授之书而习其句读者，非吾所谓传其道解其惑者也。句读之不知，惑之不解，或师焉，或不焉，小学而大遗，吾未见其明也。巫医乐师百工之人，不耻相师。士大夫之族，曰师曰弟子云者，则群聚而笑之。问之，则曰：“彼与彼年相若也，道相似也。位卑则足羞，官盛则近谀。”呜呼！师道之不复可知矣。巫医乐师百工之人，君子不齿，今其智乃反不能及，其可怪也欤！</p><p>圣人无常师。孔子师郯子、苌弘、师襄、老聃。郯子之徒，其贤不及孔子。孔子曰：三人行，则必有我师。是故弟子不必不如师，师不必贤于弟子，闻道有先后，术业有专攻，如是而已。</p><p>李氏子蟠，年十七，好古文，六艺经传皆通习之，不拘于时，学于余。余嘉其能行古道，作《师说》以贻之。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随便写写</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>古文欣赏</tag>
+      
+      <tag>生活</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>PHP面试题</title>
+    <link href="/2021/05/04/mianshi/"/>
+    <url>/2021/05/04/mianshi/</url>
+    
+    <content type="html"><![CDATA[<h3 id="2021年常见的PHP面试题汇总"><a href="#2021年常见的PHP面试题汇总" class="headerlink" title="2021年常见的PHP面试题汇总"></a>2021年常见的PHP面试题汇总</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><code class="hljs base">1.用PHP封装自定义函数，将字符串’ni_hao_shi_jie’转化为字符串’NiHaoShiJie’<br>2.用PHP打印乘法口诀表<br>3.用PHP写出两种常用的一维数组排序算法<br>4.怎么理解php程序设计依赖注入与控制反转的概念<br>5.Swoole内存溢出处理<br>6.HTTP常见状态码含义<br>7.Swoole工作流程与fpm工作流程区别<br>8.简述MySQL性能优化<br>9.MySQL引擎myisam与innodb的区别<br>10.NGINX如何记录来访者的IP<br>11.Linux解压缩包与添加压缩包（后缀为.tar.gz）<br>12.docker常用命令<br>13.Resis的数据类型与应用场景<br>14.如何处理网站高并发场景<br>15.Redis备份aof与rdb的区别<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>PHP</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>面试题</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>PHP常见的排序算法</title>
+    <link href="/2021/05/04/suanfa/"/>
+    <url>/2021/05/04/suanfa/</url>
+    
+    <content type="html"><![CDATA[<h3 id="冒泡排序"><a href="#冒泡排序" class="headerlink" title="冒泡排序"></a>冒泡排序</h3><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><code class="hljs php">$arr=<span class="hljs-keyword">array</span>(<span class="hljs-number">1</span>,<span class="hljs-number">43</span>,<span class="hljs-number">54</span>,<span class="hljs-number">62</span>,<span class="hljs-number">21</span>,<span class="hljs-number">66</span>,<span class="hljs-number">32</span>,<span class="hljs-number">78</span>,<span class="hljs-number">36</span>,<span class="hljs-number">76</span>,<span class="hljs-number">39</span>); <br><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">bubbleSort</span><span class="hljs-params">($arr)</span></span><br><span class="hljs-function"></span>&#123; <br>  $len=count($arr);<br>  <span class="hljs-comment">//该层循环控制 需要冒泡的轮数</span><br>  <span class="hljs-keyword">for</span>($i=<span class="hljs-number">1</span>;$i&lt;$len;$i++)<br>  &#123; <span class="hljs-comment">//该层循环用来控制每轮 冒出一个数 需要比较的次数</span><br>    <span class="hljs-keyword">for</span>($k=<span class="hljs-number">0</span>;$k&lt;$len-$i;$k++)<br>    &#123;<br>       <span class="hljs-keyword">if</span>($arr[$k]&gt;$arr[$k+<span class="hljs-number">1</span>])<br>        &#123;<br>            $tmp=$arr[$k+<span class="hljs-number">1</span>];<br>            $arr[$k+<span class="hljs-number">1</span>]=$arr[$k];<br>            $arr[$k]=$tmp;<br>        &#125;<br>    &#125;<br>  &#125;<br>  <span class="hljs-keyword">return</span> $arr;<br>&#125;<br></code></pre></td></tr></table></figure><h3 id="选择排序"><a href="#选择排序" class="headerlink" title="选择排序"></a>选择排序</h3><figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><code class="hljs awk"><span class="hljs-keyword">function</span> selectSort(<span class="hljs-variable">$arr</span>) &#123;<br><span class="hljs-regexp">//</span>双重循环完成，外层控制轮数，内层控制比较次数<br> <span class="hljs-variable">$len</span>=count(<span class="hljs-variable">$arr</span>);<br>    <span class="hljs-keyword">for</span>(<span class="hljs-variable">$i</span>=<span class="hljs-number">0</span>; <span class="hljs-variable">$i</span>&lt;<span class="hljs-variable">$len</span>-<span class="hljs-number">1</span>; <span class="hljs-variable">$i</span>++) &#123;<br>        <span class="hljs-regexp">//</span>先假设最小的值的位置<br>        <span class="hljs-variable">$p</span> = <span class="hljs-variable">$i</span>;<br>         <br>        <span class="hljs-keyword">for</span>(<span class="hljs-variable">$j</span>=<span class="hljs-variable">$i</span>+<span class="hljs-number">1</span>; <span class="hljs-variable">$j</span>&lt;<span class="hljs-variable">$len</span>; <span class="hljs-variable">$j</span>++) &#123;<br>            <span class="hljs-regexp">//</span><span class="hljs-variable">$arr</span>[<span class="hljs-variable">$p</span>] 是当前已知的最小值<br>            <span class="hljs-keyword">if</span>(<span class="hljs-variable">$arr</span>[<span class="hljs-variable">$p</span>] &gt; <span class="hljs-variable">$arr</span>[<span class="hljs-variable">$j</span>]) &#123;<br>            <span class="hljs-regexp">//</span>比较，发现更小的,记录下最小值的位置；并且在下次比较时采用已知的最小值进行比较。<br>                <span class="hljs-variable">$p</span> = <span class="hljs-variable">$j</span>;<br>            &#125;<br>        &#125;<br>        <span class="hljs-regexp">//</span>已经确定了当前的最小值的位置，保存到<span class="hljs-variable">$p</span>中。如果发现最小值的位置与当前假设的位置<span class="hljs-variable">$i</span>不同，则位置互换即可。<br>        <span class="hljs-keyword">if</span>(<span class="hljs-variable">$p</span> != <span class="hljs-variable">$i</span>) &#123;<br>            <span class="hljs-variable">$tmp</span> = <span class="hljs-variable">$arr</span>[<span class="hljs-variable">$p</span>];<br>            <span class="hljs-variable">$arr</span>[<span class="hljs-variable">$p</span>] = <span class="hljs-variable">$arr</span>[<span class="hljs-variable">$i</span>];<br>            <span class="hljs-variable">$arr</span>[<span class="hljs-variable">$i</span>] = <span class="hljs-variable">$tmp</span>;<br>        &#125;<br>    &#125;<br>    <span class="hljs-regexp">//</span>返回最终结果<br>    return <span class="hljs-variable">$arr</span>;<br>&#125;<br></code></pre></td></tr></table></figure><h3 id="插入排序"><a href="#插入排序" class="headerlink" title="插入排序"></a>插入排序</h3><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><code class="hljs php"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">insertSort</span><span class="hljs-params">($arr)</span> </span>&#123;<br>    $len=count($arr);<br>    <span class="hljs-keyword">for</span>($i=<span class="hljs-number">1</span>, $i&lt;$len; $i++) &#123;<br>        $tmp = $arr[$i];<br>        <span class="hljs-comment">//内层循环控制，比较并插入</span><br>        <span class="hljs-keyword">for</span>($j=$i<span class="hljs-number">-1</span>;$j&gt;=<span class="hljs-number">0</span>;$j--) &#123;<br>            <span class="hljs-keyword">if</span>($tmp &lt; $arr[$j]) &#123;<br>                <span class="hljs-comment">//发现插入的元素要小，交换位置，将后边的元素与前面的元素互换</span><br>                $arr[$j+<span class="hljs-number">1</span>] = $arr[$j];<br>                $arr[$j] = $tmp;<br>            &#125; <span class="hljs-keyword">else</span> &#123;<br>                <span class="hljs-comment">//如果碰到不需要移动的元素，由于是已经排序好是数组，则前面的就不需要再次比较了。</span><br>                <span class="hljs-keyword">break</span>;<br>            &#125;<br>        &#125;<br>    &#125;<br>    <span class="hljs-keyword">return</span> $arr;<br>&#125;<br></code></pre></td></tr></table></figure><h3 id="快速排序"><a href="#快速排序" class="headerlink" title="快速排序"></a>快速排序</h3><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><code class="hljs php"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">quickSort</span><span class="hljs-params">($arr)</span> </span>&#123;<br>    <span class="hljs-comment">//先判断是否需要继续进行</span><br>    $length = count($arr);<br>    <span class="hljs-keyword">if</span>($length &lt;= <span class="hljs-number">1</span>) &#123;<br>        <span class="hljs-keyword">return</span> $arr;<br>    &#125;<br>    <span class="hljs-comment">//选择第一个元素作为基准</span><br>    $base_num = $arr[<span class="hljs-number">0</span>];<br>    <span class="hljs-comment">//遍历除了标尺外的所有元素，按照大小关系放入两个数组内</span><br>    <span class="hljs-comment">//初始化两个数组</span><br>    $left_array = <span class="hljs-keyword">array</span>();  <span class="hljs-comment">//小于基准的</span><br>    $right_array = <span class="hljs-keyword">array</span>();  <span class="hljs-comment">//大于基准的</span><br>    <span class="hljs-keyword">for</span>($i=<span class="hljs-number">1</span>; $i&lt;$length; $i++) &#123;<br>        <span class="hljs-keyword">if</span>($base_num &gt; $arr[$i]) &#123;<br>            <span class="hljs-comment">//放入左边数组</span><br>            $left_array[] = $arr[$i];<br>        &#125; <span class="hljs-keyword">else</span> &#123;<br>            <span class="hljs-comment">//放入右边</span><br>            $right_array[] = $arr[$i];<br>        &#125;<br>    &#125;<br>    <span class="hljs-comment">//再分别对左边和右边的数组进行相同的排序处理方式递归调用这个函数</span><br>    $left_array = quick_sort($left_array);<br>    $right_array = quick_sort($right_array);<br>    <span class="hljs-comment">//合并</span><br>    <span class="hljs-keyword">return</span> array_merge($left_array, <span class="hljs-keyword">array</span>($base_num), $right_array);<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>PHP</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>算法</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>赤壁赋</title>
+    <link href="/2021/05/03/chibifu/"/>
+    <url>/2021/05/03/chibifu/</url>
+    
+    <content type="html"><![CDATA[<h3 id="赤壁赋"><a href="#赤壁赋" class="headerlink" title="赤壁赋"></a>赤壁赋</h3><p>壬戌之秋，七月既望，苏子与客泛舟游于赤壁之下。清风徐来，水波不兴。举酒属客，诵明月之诗，歌窈窕之章。少焉，月出于东山之上，徘徊于斗牛之间。白露横江，水光接天。纵一苇之所如，凌万顷之茫然。浩浩乎如冯虚御风，而不知其所止；飘飘乎如遗世独立，羽化而登仙。</p><p>于是饮酒乐甚，扣舷而歌之。歌曰：“桂棹兮兰桨，击空明兮溯流光。渺渺兮予怀，望美人兮天一方。”客有吹洞箫者，倚歌而和之。其声呜呜然，如怨如慕，如泣如诉，余音袅袅，不绝如缕。舞幽壑之潜蛟，泣孤舟之嫠妇。</p><p>苏子愀然，正襟危坐而问客曰：“何为其然也？”客曰：“月明星稀，乌鹊南飞，此非曹孟德之诗乎？西望夏口，东望武昌，山川相缪，郁乎苍苍，此非孟德之困于周郎者乎？方其破荆州，下江陵，顺流而东也，舳舻千里，旌旗蔽空，酾酒临江，横槊赋诗，固一世之雄也，而今安在哉？况吾与子渔樵于江渚之上，侣鱼虾而友麋鹿，驾一叶之扁舟，举匏樽以相属。寄蜉蝣于天地，渺沧海之一粟。哀吾生之须臾，羡长江之无穷。挟飞仙以遨游，抱明月而长终。知不可乎骤得，托遗响于悲风。”</p><p>苏子曰：“客亦知夫水与月乎？逝者如斯，而未尝往也；盈虚者如彼，而卒莫消长也。盖将自其变者而观之，则天地曾不能以一瞬；自其不变者而观之，则物与我皆无尽也，而又何羡乎!且夫天地之间，物各有主,苟非吾之所有，虽一毫而莫取。惟江上之清风，与山间之明月，耳得之而为声，目遇之而成色，取之无禁，用之不竭，是造物者之无尽藏也，而吾与子之所共适。”</p><p>客喜而笑，洗盏更酌。肴核既尽，杯盘狼籍。相与枕藉乎舟中，不知东方之既白。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随便写写</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>古文欣赏</tag>
+      
+      <tag>生活</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>滕王阁序</title>
     <link href="/2021/05/03/tengwanggexu/"/>
     <url>/2021/05/03/tengwanggexu/</url>
     
-    <content type="html"><![CDATA[<h3 id="滕王阁序"><a href="#滕王阁序" class="headerlink" title="滕王阁序"></a>滕王阁序</h3><h6 id="豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。雄州雾列，俊采星驰。台隍枕夷夏之交，宾主尽东南之美。都督阎公之雅望，棨戟遥临；宇文新州之懿范，襜帷暂驻。十旬休假，胜友如云；千里逢迎，高朋满座。腾蛟起凤，孟学士之词宗；紫电青霜，王将军之武库。家君作宰，路出名区；童子何知，躬逢胜饯。"><a href="#豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。雄州雾列，俊采星驰。台隍枕夷夏之交，宾主尽东南之美。都督阎公之雅望，棨戟遥临；宇文新州之懿范，襜帷暂驻。十旬休假，胜友如云；千里逢迎，高朋满座。腾蛟起凤，孟学士之词宗；紫电青霜，王将军之武库。家君作宰，路出名区；童子何知，躬逢胜饯。" class="headerlink" title="豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。雄州雾列，俊采星驰。台隍枕夷夏之交，宾主尽东南之美。都督阎公之雅望，棨戟遥临；宇文新州之懿范，襜帷暂驻。十旬休假，胜友如云；千里逢迎，高朋满座。腾蛟起凤，孟学士之词宗；紫电青霜，王将军之武库。家君作宰，路出名区；童子何知，躬逢胜饯。"></a>豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。雄州雾列，俊采星驰。台隍枕夷夏之交，宾主尽东南之美。都督阎公之雅望，棨戟遥临；宇文新州之懿范，襜帷暂驻。十旬休假，胜友如云；千里逢迎，高朋满座。腾蛟起凤，孟学士之词宗；紫电青霜，王将军之武库。家君作宰，路出名区；童子何知，躬逢胜饯。</h6><h6 id="时维九月，序属三秋。潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。层峦耸翠，上出重霄；飞阁流丹，下临无地。鹤汀凫渚，穷岛屿之萦回；桂殿兰宫，即冈峦之体势。"><a href="#时维九月，序属三秋。潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。层峦耸翠，上出重霄；飞阁流丹，下临无地。鹤汀凫渚，穷岛屿之萦回；桂殿兰宫，即冈峦之体势。" class="headerlink" title="时维九月，序属三秋。潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。层峦耸翠，上出重霄；飞阁流丹，下临无地。鹤汀凫渚，穷岛屿之萦回；桂殿兰宫，即冈峦之体势。"></a>时维九月，序属三秋。潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。层峦耸翠，上出重霄；飞阁流丹，下临无地。鹤汀凫渚，穷岛屿之萦回；桂殿兰宫，即冈峦之体势。</h6><h6 id="披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。"><a href="#披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。" class="headerlink" title="披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。"></a>披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。</h6><h6 id="遥襟甫畅，逸兴遄飞。爽籁发而清风生，纤歌凝而白云遏。睢园绿竹，气凌彭泽之樽；邺水朱华，光照临川之笔。四美具，二难并。穷睇眄于中天，极娱游于暇日。天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。望长安于日下，目吴会于云间。地势极而南溟深，天柱高而北辰远。关山难越，谁悲失路之人？萍水相逢，尽是他乡之客。怀帝阍而不见，奉宣室以何年？"><a href="#遥襟甫畅，逸兴遄飞。爽籁发而清风生，纤歌凝而白云遏。睢园绿竹，气凌彭泽之樽；邺水朱华，光照临川之笔。四美具，二难并。穷睇眄于中天，极娱游于暇日。天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。望长安于日下，目吴会于云间。地势极而南溟深，天柱高而北辰远。关山难越，谁悲失路之人？萍水相逢，尽是他乡之客。怀帝阍而不见，奉宣室以何年？" class="headerlink" title="遥襟甫畅，逸兴遄飞。爽籁发而清风生，纤歌凝而白云遏。睢园绿竹，气凌彭泽之樽；邺水朱华，光照临川之笔。四美具，二难并。穷睇眄于中天，极娱游于暇日。天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。望长安于日下，目吴会于云间。地势极而南溟深，天柱高而北辰远。关山难越，谁悲失路之人？萍水相逢，尽是他乡之客。怀帝阍而不见，奉宣室以何年？"></a>遥襟甫畅，逸兴遄飞。爽籁发而清风生，纤歌凝而白云遏。睢园绿竹，气凌彭泽之樽；邺水朱华，光照临川之笔。四美具，二难并。穷睇眄于中天，极娱游于暇日。天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。望长安于日下，目吴会于云间。地势极而南溟深，天柱高而北辰远。关山难越，谁悲失路之人？萍水相逢，尽是他乡之客。怀帝阍而不见，奉宣室以何年？</h6><h6 id="嗟乎！时运不齐，命途多舛。冯唐易老，李广难封。屈贾谊于长沙，非无圣主；窜梁鸿于海曲，岂乏明时？所赖君子见机，达人知命。老当益壮，宁移白首之心？穷且益坚，不坠青云之志。酌贪泉而觉爽，处涸辙以犹欢。北海虽赊，扶摇可接；东隅已逝，桑榆非晚。孟尝高洁，空余报国之情；阮籍猖狂，岂效穷途之哭！"><a href="#嗟乎！时运不齐，命途多舛。冯唐易老，李广难封。屈贾谊于长沙，非无圣主；窜梁鸿于海曲，岂乏明时？所赖君子见机，达人知命。老当益壮，宁移白首之心？穷且益坚，不坠青云之志。酌贪泉而觉爽，处涸辙以犹欢。北海虽赊，扶摇可接；东隅已逝，桑榆非晚。孟尝高洁，空余报国之情；阮籍猖狂，岂效穷途之哭！" class="headerlink" title="嗟乎！时运不齐，命途多舛。冯唐易老，李广难封。屈贾谊于长沙，非无圣主；窜梁鸿于海曲，岂乏明时？所赖君子见机，达人知命。老当益壮，宁移白首之心？穷且益坚，不坠青云之志。酌贪泉而觉爽，处涸辙以犹欢。北海虽赊，扶摇可接；东隅已逝，桑榆非晚。孟尝高洁，空余报国之情；阮籍猖狂，岂效穷途之哭！"></a>嗟乎！时运不齐，命途多舛。冯唐易老，李广难封。屈贾谊于长沙，非无圣主；窜梁鸿于海曲，岂乏明时？所赖君子见机，达人知命。老当益壮，宁移白首之心？穷且益坚，不坠青云之志。酌贪泉而觉爽，处涸辙以犹欢。北海虽赊，扶摇可接；东隅已逝，桑榆非晚。孟尝高洁，空余报国之情；阮籍猖狂，岂效穷途之哭！</h6><h6 id="勃，三尺微命，一介书生。无路请缨，等终军之弱冠；有怀投笔，慕宗悫之长风。舍簪笏于百龄，奉晨昏于万里。非谢家之宝树，接孟氏之芳邻。他日趋庭，叨陪鲤对；今兹捧袂，喜托龙门。杨意不逢，抚凌云而自惜；钟期既遇，奏流水以何惭？"><a href="#勃，三尺微命，一介书生。无路请缨，等终军之弱冠；有怀投笔，慕宗悫之长风。舍簪笏于百龄，奉晨昏于万里。非谢家之宝树，接孟氏之芳邻。他日趋庭，叨陪鲤对；今兹捧袂，喜托龙门。杨意不逢，抚凌云而自惜；钟期既遇，奏流水以何惭？" class="headerlink" title="勃，三尺微命，一介书生。无路请缨，等终军之弱冠；有怀投笔，慕宗悫之长风。舍簪笏于百龄，奉晨昏于万里。非谢家之宝树，接孟氏之芳邻。他日趋庭，叨陪鲤对；今兹捧袂，喜托龙门。杨意不逢，抚凌云而自惜；钟期既遇，奏流水以何惭？"></a>勃，三尺微命，一介书生。无路请缨，等终军之弱冠；有怀投笔，慕宗悫之长风。舍簪笏于百龄，奉晨昏于万里。非谢家之宝树，接孟氏之芳邻。他日趋庭，叨陪鲤对；今兹捧袂，喜托龙门。杨意不逢，抚凌云而自惜；钟期既遇，奏流水以何惭？</h6><h6 id="呜乎！胜地不常，盛筵难再；兰亭已矣，梓泽丘墟。临别赠言，幸承恩于伟饯；登高作赋，是所望于群公。敢竭鄙怀，恭疏短引；一言均赋，四韵俱成。请洒潘江，各倾陆海云尔："><a href="#呜乎！胜地不常，盛筵难再；兰亭已矣，梓泽丘墟。临别赠言，幸承恩于伟饯；登高作赋，是所望于群公。敢竭鄙怀，恭疏短引；一言均赋，四韵俱成。请洒潘江，各倾陆海云尔：" class="headerlink" title="呜乎！胜地不常，盛筵难再；兰亭已矣，梓泽丘墟。临别赠言，幸承恩于伟饯；登高作赋，是所望于群公。敢竭鄙怀，恭疏短引；一言均赋，四韵俱成。请洒潘江，各倾陆海云尔："></a>呜乎！胜地不常，盛筵难再；兰亭已矣，梓泽丘墟。临别赠言，幸承恩于伟饯；登高作赋，是所望于群公。敢竭鄙怀，恭疏短引；一言均赋，四韵俱成。请洒潘江，各倾陆海云尔：</h6><h6 id="滕王高阁临江渚，佩玉鸣鸾罢歌舞。"><a href="#滕王高阁临江渚，佩玉鸣鸾罢歌舞。" class="headerlink" title="滕王高阁临江渚，佩玉鸣鸾罢歌舞。"></a>滕王高阁临江渚，佩玉鸣鸾罢歌舞。</h6><h6 id="画栋朝飞南浦云，珠帘暮卷西山雨。"><a href="#画栋朝飞南浦云，珠帘暮卷西山雨。" class="headerlink" title="画栋朝飞南浦云，珠帘暮卷西山雨。"></a>画栋朝飞南浦云，珠帘暮卷西山雨。</h6><h6 id="闲云潭影日悠悠，物换星移几度秋。"><a href="#闲云潭影日悠悠，物换星移几度秋。" class="headerlink" title="闲云潭影日悠悠，物换星移几度秋。"></a>闲云潭影日悠悠，物换星移几度秋。</h6><h6 id="阁中帝子今何在？槛外长江空自流。"><a href="#阁中帝子今何在？槛外长江空自流。" class="headerlink" title="阁中帝子今何在？槛外长江空自流。"></a>阁中帝子今何在？槛外长江空自流。</h6>]]></content>
+    <content type="html"><![CDATA[<h3 id="滕王阁序"><a href="#滕王阁序" class="headerlink" title="滕王阁序"></a>滕王阁序</h3><p>豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。雄州雾列，俊采星驰。台隍枕夷夏之交，宾主尽东南之美。都督阎公之雅望，棨戟遥临；宇文新州之懿范，襜帷暂驻。十旬休假，胜友如云；千里逢迎，高朋满座。腾蛟起凤，孟学士之词宗；紫电青霜，王将军之武库。家君作宰，路出名区；童子何知，躬逢胜饯。</p><p>时维九月，序属三秋。潦水尽而寒潭清，烟光凝而暮山紫。俨骖騑于上路，访风景于崇阿；临帝子之长洲，得天人之旧馆。层峦耸翠，上出重霄；飞阁流丹，下临无地。鹤汀凫渚，穷岛屿之萦回；桂殿兰宫，即冈峦之体势。</p><p>披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。</p><p>遥襟甫畅，逸兴遄飞。爽籁发而清风生，纤歌凝而白云遏。睢园绿竹，气凌彭泽之樽；邺水朱华，光照临川之笔。四美具，二难并。穷睇眄于中天，极娱游于暇日。天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。望长安于日下，目吴会于云间。地势极而南溟深，天柱高而北辰远。关山难越，谁悲失路之人？萍水相逢，尽是他乡之客。怀帝阍而不见，奉宣室以何年？</p><p>嗟乎！时运不齐，命途多舛。冯唐易老，李广难封。屈贾谊于长沙，非无圣主；窜梁鸿于海曲，岂乏明时？所赖君子见机，达人知命。老当益壮，宁移白首之心？穷且益坚，不坠青云之志。酌贪泉而觉爽，处涸辙以犹欢。北海虽赊，扶摇可接；东隅已逝，桑榆非晚。孟尝高洁，空余报国之情；阮籍猖狂，岂效穷途之哭！</p><p>勃，三尺微命，一介书生。无路请缨，等终军之弱冠；有怀投笔，慕宗悫之长风。舍簪笏于百龄，奉晨昏于万里。非谢家之宝树，接孟氏之芳邻。他日趋庭，叨陪鲤对；今兹捧袂，喜托龙门。杨意不逢，抚凌云而自惜；钟期既遇，奏流水以何惭？</p><p>呜乎！胜地不常，盛筵难再；兰亭已矣，梓泽丘墟。临别赠言，幸承恩于伟饯；登高作赋，是所望于群公。敢竭鄙怀，恭疏短引；一言均赋，四韵俱成。请洒潘江，各倾陆海云尔：</p><p>滕王高阁临江渚，佩玉鸣鸾罢歌舞。</p><p>画栋朝飞南浦云，珠帘暮卷西山雨。</p><p>闲云潭影日悠悠，物换星移几度秋。</p><p>阁中帝子今何在？槛外长江空自流。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随便写写</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>古文欣赏</tag>
+      
+      <tag>生活</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>苏东坡诗词合集</title>
+    <link href="/2021/05/03/sushi/"/>
+    <url>/2021/05/03/sushi/</url>
+    
+    <content type="html"><![CDATA[<h3 id="水调歌头·明月几时有"><a href="#水调歌头·明月几时有" class="headerlink" title="水调歌头·明月几时有"></a>水调歌头·明月几时有</h3><p>丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。</p><p>明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间。</p><p>转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。</p><h3 id="念奴娇·赤壁怀古"><a href="#念奴娇·赤壁怀古" class="headerlink" title="念奴娇·赤壁怀古"></a>念奴娇·赤壁怀古</h3><p>大江东去，浪淘尽，千古风流人物。</p><p>故垒西边，人道是，三国周郎赤壁。</p><p>乱石穿空，惊涛拍岸，卷起千堆雪。</p><p>江山如画，一时多少豪杰。</p><p>遥想公瑾当年，小乔初嫁了，雄姿英发。</p><p>羽扇纶巾，谈笑间，樯橹灰飞烟灭。</p><p>故国神游，多情应笑我，早生华发。</p><p>人生如梦，一尊还酹江月。</p><h3 id="江城子·乙卯正月二十日夜记梦"><a href="#江城子·乙卯正月二十日夜记梦" class="headerlink" title="江城子·乙卯正月二十日夜记梦"></a>江城子·乙卯正月二十日夜记梦</h3><p>十年生死两茫茫，不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜。</p><p>夜来幽梦忽还乡，小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈。</p><h3 id="定风波·莫听穿林打叶声"><a href="#定风波·莫听穿林打叶声" class="headerlink" title="定风波·莫听穿林打叶声"></a>定风波·莫听穿林打叶声</h3><p>莫听穿林打叶声，何妨吟啸且徐行。</p><p>竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。</p><p>料峭春风吹酒醒，微冷，山头斜照却相迎。</p><p>回首向来萧瑟处，归去，也无风雨也无晴。</p><h3 id="定风波·常羡人间琢玉郎"><a href="#定风波·常羡人间琢玉郎" class="headerlink" title="定风波·常羡人间琢玉郎"></a>定风波·常羡人间琢玉郎</h3><p>常羡人间琢玉郎，<br>天应乞与点酥娘。<br>自作清歌传皓齿，<br>风起，雪飞炎海变清凉。</p><p>万里归来年愈少，<br>微笑，笑时犹带岭梅香。<br>试问岭南应不好？<br>却道：此心安处是吾乡。</p><h3 id="鹧鸪天·林断山明竹隐墙"><a href="#鹧鸪天·林断山明竹隐墙" class="headerlink" title="鹧鸪天·林断山明竹隐墙"></a>鹧鸪天·林断山明竹隐墙</h3><p>林断山明竹隐墙，　<br>乱蝉衰草小池塘。　<br>翻空白鸟时时见，<br>照水红蕖细细香。　</p><p>村舍外，<br>古城旁，　<br>杖藜徐步转斜阳。　<br>殷勤昨夜三更雨，<br>又得浮生一日凉。</p><h3 id="临江仙·夜饮东坡醒复醉"><a href="#临江仙·夜饮东坡醒复醉" class="headerlink" title="临江仙·夜饮东坡醒复醉"></a>临江仙·夜饮东坡醒复醉</h3><p>夜饮东坡醒复醉，归来仿佛三更。家童鼻息已雷鸣。敲门都不应，倚杖听江声。<br>长恨此身非我有，何时忘却营营。夜阑风静縠纹平。小舟从此逝，江海寄余生。</p>]]></content>
     
     
     <categories>
@@ -47,9 +205,7 @@
     
     <tags>
       
-      <tag>古文欣赏</tag>
-      
-      <tag>生活</tag>
+      <tag>测试</tag>
       
     </tags>
     
