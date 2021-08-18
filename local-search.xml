@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>Hello World</title>
+    <link href="/2021/08/18/hello-world/"/>
+    <url>/2021/08/18/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>代码</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>心术</title>
     <link href="/2021/06/13/xinshu/"/>
     <url>/2021/06/13/xinshu/</url>
@@ -270,33 +295,6 @@
   
   
   <entry>
-    <title>苏东坡诗词合集</title>
-    <link href="/2021/05/03/sushi/"/>
-    <url>/2021/05/03/sushi/</url>
-    
-    <content type="html"><![CDATA[<h3 id="水调歌头·明月几时有"><a href="#水调歌头·明月几时有" class="headerlink" title="水调歌头·明月几时有"></a>水调歌头·明月几时有</h3><p>丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。</p><p>明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间。</p><p>转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。</p><h3 id="念奴娇·赤壁怀古"><a href="#念奴娇·赤壁怀古" class="headerlink" title="念奴娇·赤壁怀古"></a>念奴娇·赤壁怀古</h3><p>大江东去，浪淘尽，千古风流人物。</p><p>故垒西边，人道是，三国周郎赤壁。</p><p>乱石穿空，惊涛拍岸，卷起千堆雪。</p><p>江山如画，一时多少豪杰。</p><p>遥想公瑾当年，小乔初嫁了，雄姿英发。</p><p>羽扇纶巾，谈笑间，樯橹灰飞烟灭。</p><p>故国神游，多情应笑我，早生华发。</p><p>人生如梦，一尊还酹江月。</p><h3 id="江城子·乙卯正月二十日夜记梦"><a href="#江城子·乙卯正月二十日夜记梦" class="headerlink" title="江城子·乙卯正月二十日夜记梦"></a>江城子·乙卯正月二十日夜记梦</h3><p>十年生死两茫茫，不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜。</p><p>夜来幽梦忽还乡，小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈。</p><h3 id="定风波·莫听穿林打叶声"><a href="#定风波·莫听穿林打叶声" class="headerlink" title="定风波·莫听穿林打叶声"></a>定风波·莫听穿林打叶声</h3><p>莫听穿林打叶声，何妨吟啸且徐行。</p><p>竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。</p><p>料峭春风吹酒醒，微冷，山头斜照却相迎。</p><p>回首向来萧瑟处，归去，也无风雨也无晴。</p><h3 id="定风波·常羡人间琢玉郎"><a href="#定风波·常羡人间琢玉郎" class="headerlink" title="定风波·常羡人间琢玉郎"></a>定风波·常羡人间琢玉郎</h3><p>常羡人间琢玉郎，<br>天应乞与点酥娘。<br>自作清歌传皓齿，<br>风起，雪飞炎海变清凉。</p><p>万里归来年愈少，<br>微笑，笑时犹带岭梅香。<br>试问岭南应不好？<br>却道：此心安处是吾乡。</p><h3 id="鹧鸪天·林断山明竹隐墙"><a href="#鹧鸪天·林断山明竹隐墙" class="headerlink" title="鹧鸪天·林断山明竹隐墙"></a>鹧鸪天·林断山明竹隐墙</h3><p>林断山明竹隐墙，　<br>乱蝉衰草小池塘。　<br>翻空白鸟时时见，<br>照水红蕖细细香。　</p><p>村舍外，<br>古城旁，　<br>杖藜徐步转斜阳。　<br>殷勤昨夜三更雨，<br>又得浮生一日凉。</p><h3 id="临江仙·夜饮东坡醒复醉"><a href="#临江仙·夜饮东坡醒复醉" class="headerlink" title="临江仙·夜饮东坡醒复醉"></a>临江仙·夜饮东坡醒复醉</h3><p>夜饮东坡醒复醉，归来仿佛三更。家童鼻息已雷鸣。敲门都不应，倚杖听江声。<br>长恨此身非我有，何时忘却营营。夜阑风静縠纹平。小舟从此逝，江海寄余生。</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>随便写写</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>生活</tag>
-      
-      <tag>古文欣赏</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>滕王阁序</title>
     <link href="/2021/05/03/tengwanggexu/"/>
     <url>/2021/05/03/tengwanggexu/</url>
@@ -324,23 +322,25 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2020/07/05/hello-world/"/>
-    <url>/2020/07/05/hello-world/</url>
+    <title>苏东坡诗词合集</title>
+    <link href="/2021/05/03/sushi/"/>
+    <url>/2021/05/03/sushi/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="水调歌头·明月几时有"><a href="#水调歌头·明月几时有" class="headerlink" title="水调歌头·明月几时有"></a>水调歌头·明月几时有</h3><p>丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。</p><p>明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间。</p><p>转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。</p><h3 id="念奴娇·赤壁怀古"><a href="#念奴娇·赤壁怀古" class="headerlink" title="念奴娇·赤壁怀古"></a>念奴娇·赤壁怀古</h3><p>大江东去，浪淘尽，千古风流人物。</p><p>故垒西边，人道是，三国周郎赤壁。</p><p>乱石穿空，惊涛拍岸，卷起千堆雪。</p><p>江山如画，一时多少豪杰。</p><p>遥想公瑾当年，小乔初嫁了，雄姿英发。</p><p>羽扇纶巾，谈笑间，樯橹灰飞烟灭。</p><p>故国神游，多情应笑我，早生华发。</p><p>人生如梦，一尊还酹江月。</p><h3 id="江城子·乙卯正月二十日夜记梦"><a href="#江城子·乙卯正月二十日夜记梦" class="headerlink" title="江城子·乙卯正月二十日夜记梦"></a>江城子·乙卯正月二十日夜记梦</h3><p>十年生死两茫茫，不思量，自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜。</p><p>夜来幽梦忽还乡，小轩窗，正梳妆。相顾无言，惟有泪千行。料得年年肠断处，明月夜，短松冈。</p><h3 id="定风波·莫听穿林打叶声"><a href="#定风波·莫听穿林打叶声" class="headerlink" title="定风波·莫听穿林打叶声"></a>定风波·莫听穿林打叶声</h3><p>莫听穿林打叶声，何妨吟啸且徐行。</p><p>竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。</p><p>料峭春风吹酒醒，微冷，山头斜照却相迎。</p><p>回首向来萧瑟处，归去，也无风雨也无晴。</p><h3 id="定风波·常羡人间琢玉郎"><a href="#定风波·常羡人间琢玉郎" class="headerlink" title="定风波·常羡人间琢玉郎"></a>定风波·常羡人间琢玉郎</h3><p>常羡人间琢玉郎，<br>天应乞与点酥娘。<br>自作清歌传皓齿，<br>风起，雪飞炎海变清凉。</p><p>万里归来年愈少，<br>微笑，笑时犹带岭梅香。<br>试问岭南应不好？<br>却道：此心安处是吾乡。</p><h3 id="鹧鸪天·林断山明竹隐墙"><a href="#鹧鸪天·林断山明竹隐墙" class="headerlink" title="鹧鸪天·林断山明竹隐墙"></a>鹧鸪天·林断山明竹隐墙</h3><p>林断山明竹隐墙，　<br>乱蝉衰草小池塘。　<br>翻空白鸟时时见，<br>照水红蕖细细香。　</p><p>村舍外，<br>古城旁，　<br>杖藜徐步转斜阳。　<br>殷勤昨夜三更雨，<br>又得浮生一日凉。</p><h3 id="临江仙·夜饮东坡醒复醉"><a href="#临江仙·夜饮东坡醒复醉" class="headerlink" title="临江仙·夜饮东坡醒复醉"></a>临江仙·夜饮东坡醒复醉</h3><p>夜饮东坡醒复醉，归来仿佛三更。家童鼻息已雷鸣。敲门都不应，倚杖听江声。<br>长恨此身非我有，何时忘却营营。夜阑风静縠纹平。小舟从此逝，江海寄余生。</p>]]></content>
     
     
     <categories>
       
-      <category>代码</category>
+      <category>随便写写</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>测试</tag>
+      <tag>生活</tag>
+      
+      <tag>古文欣赏</tag>
       
     </tags>
     
